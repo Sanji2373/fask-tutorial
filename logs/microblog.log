@@ -139,3 +139,4 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 (Background on this error at: https://sqlalche.me/e/20/gkpj)
 2025-10-31 17:33:04,314 INFO: Microblog startup [in C:\Users\Преподаватель\Documents\mircoblog\app\__init__.py:44]
 2025-11-08 15:31:45,101 INFO: Microblog startup [in C:\Users\Преподаватель\Documents\mircoblog\app\__init__.py:44]
+2025-11-08 16:16:00,185 INFO: Microblog startup [in C:\Users\Преподаватель\Documents\flask_tut\app\__init__.py:44]
